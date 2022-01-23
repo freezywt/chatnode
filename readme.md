@@ -1,13 +1,7 @@
 
-# Contact-me
+# ChatNodeJS
 
 A chat using nodejs and html/css.
-
-
-<br />
-
-<br />
-
 
 ### install :
 
